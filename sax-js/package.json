@@ -1,0 +1,20 @@
+{
+  "name": "parser-sax-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --port 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sax": "^1.2.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5",
+    "copy-webpack-plugin": "^4.5.2"
+  }
+}
